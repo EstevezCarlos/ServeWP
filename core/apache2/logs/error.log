@@ -1,0 +1,17 @@
+[Sun Sep 11 16:06:54.809743 2022] [mpm_winnt:notice] [pid 13740:tid 480] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun Sep 11 16:06:54.809743 2022] [mpm_winnt:notice] [pid 13740:tid 480] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun Sep 11 16:06:54.809743 2022] [core:notice] [pid 13740:tid 480] AH00094: Command line: 'C:\\Users\\Chuck\\Desktop\\ServeWP\\ServeWP\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Chuck/Desktop/ServeWP/ServeWP/core/apache2 -f C:\\Users\\Chuck\\Desktop\\ServeWP\\ServeWP\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Chuck\\Desktop\\ServeWP\\ServeWP\\core\\apache2'
+[Sun Sep 11 16:06:54.820616 2022] [mpm_winnt:notice] [pid 13740:tid 480] AH00418: Parent: Created child process 12236
+[Sun Sep 11 16:06:55.775221 2022] [mpm_winnt:notice] [pid 12236:tid 484] AH00354: Child: Starting 150 worker threads.
+[Sun Sep 11 17:58:17.297808 2022] [core:warn] [pid 8160:tid 512] AH00098: pid file C:/Users/Chuck/Desktop/ServeWP/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 11 17:58:17.391608 2022] [mpm_winnt:notice] [pid 8160:tid 512] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Sun Sep 11 17:58:17.391608 2022] [mpm_winnt:notice] [pid 8160:tid 512] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Sun Sep 11 17:58:17.391608 2022] [core:notice] [pid 8160:tid 512] AH00094: Command line: 'C:\\Users\\Chuck\\Desktop\\ServeWP\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Chuck/Desktop/ServeWP/core/apache2 -f C:\\Users\\Chuck\\Desktop\\ServeWP\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Chuck\\Desktop\\ServeWP\\core\\apache2'
+[Sun Sep 11 17:58:17.391608 2022] [mpm_winnt:notice] [pid 8160:tid 512] AH00418: Parent: Created child process 9592
+[Sun Sep 11 17:58:18.141560 2022] [mpm_winnt:notice] [pid 9592:tid 500] AH00354: Child: Starting 150 worker threads.
+[Tue Sep 13 21:47:40.318183 2022] [core:warn] [pid 9120:tid 476] AH00098: pid file C:/Users/Chuck/Desktop/ServeWP/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 13 21:47:40.550677 2022] [mpm_winnt:notice] [pid 9120:tid 476] AH00455: Apache/2.4.53 (Win32) PHP/8.1.6 configured -- resuming normal operations
+[Tue Sep 13 21:47:40.550677 2022] [mpm_winnt:notice] [pid 9120:tid 476] AH00456: Apache Lounge VS16 Server built: May  4 2022 09:49:57
+[Tue Sep 13 21:47:40.550677 2022] [core:notice] [pid 9120:tid 476] AH00094: Command line: 'C:\\Users\\Chuck\\Desktop\\ServeWP\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Chuck/Desktop/ServeWP/core/apache2 -f C:\\Users\\Chuck\\Desktop\\ServeWP\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Chuck\\Desktop\\ServeWP\\core\\apache2'
+[Tue Sep 13 21:47:40.553676 2022] [mpm_winnt:notice] [pid 9120:tid 476] AH00418: Parent: Created child process 12268
+[Tue Sep 13 21:47:41.088234 2022] [mpm_winnt:notice] [pid 12268:tid 484] AH00354: Child: Starting 150 worker threads.

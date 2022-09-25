@@ -1,0 +1,46 @@
+2022-09-11T14:06:15.874523Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2022-09-11T14:06:15.874553Z 0 [System] [MY-010116] [Server] C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 14620
+2022-09-11T14:06:15.898064Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: e68cd9ca-31da-11ed-8546-1418c38736dc.
+2022-09-11T14:06:15.913395Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-09-11T14:06:16.238651Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-09-11T14:06:16.784512Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2022-09-11T14:06:17.456668Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-09-11T14:06:17.458256Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-09-11T14:06:17.583478Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2022-09-11T14:06:17.583813Z 0 [System] [MY-010931] [Server] C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2022-09-11T14:07:10.042261Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2022-09-11T14:07:10.042303Z 0 [System] [MY-010116] [Server] C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 1140
+2022-09-11T14:07:10.084271Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-09-11T14:07:11.216852Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-09-11T14:07:11.638989Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2022-09-11T14:07:11.647212Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2022-09-11T14:07:11.664403Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2022-09-11T14:07:11.709975Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-09-11T14:07:11.710819Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-09-11T14:07:11.794343Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2022-09-11T14:07:11.794786Z 0 [System] [MY-010931] [Server] C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2022-09-11T14:12:20.287936Z 36 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2022-09-11T14:12:20.289622Z 0 [System] [MY-013105] [Server] C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2022-09-11T14:12:21.509033Z 0 [System] [MY-010910] [Server] C:\Users\Chuck\Desktop\ServeWP\ServeWP\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2022-09-11T15:58:10.372846Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2022-09-11T15:58:10.372878Z 0 [System] [MY-010116] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 15224
+2022-09-11T15:58:10.411750Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-09-11T15:58:10.737935Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-09-11T15:58:11.167439Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-09-11T15:58:11.168182Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-09-11T15:58:11.232612Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2022-09-11T15:58:11.232822Z 0 [System] [MY-010931] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2022-09-11T15:59:54.862754Z 22 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2022-09-11T15:59:54.865176Z 0 [System] [MY-013105] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2022-09-11T15:59:55.984526Z 0 [System] [MY-010910] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
+2022-09-13T19:47:37.180587Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2022-09-13T19:47:37.180609Z 0 [System] [MY-010116] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe (mysqld 8.0.29) starting as process 18872
+2022-09-13T19:47:37.265415Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-09-13T19:47:37.654824Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-09-13T19:47:38.007098Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-09-13T19:47:38.007463Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-09-13T19:47:38.057532Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2022-09-13T19:47:38.057676Z 0 [System] [MY-010931] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.29'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2022-09-13T19:48:11.639325Z 22 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.29).
+2022-09-13T19:48:11.640295Z 0 [System] [MY-013105] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe: Normal shutdown.
+2022-09-13T19:48:12.299326Z 0 [System] [MY-010910] [Server] C:\Users\Chuck\Desktop\ServeWP\core\mysql\bin\mysqld_z.exe: Shutdown complete (mysqld 8.0.29)  MySQL Community Server - GPL.
