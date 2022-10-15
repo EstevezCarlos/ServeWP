@@ -1,0 +1,6 @@
+127.0.0.1 - - [15/Oct/2022:13:25:06 +0200] "GET /us_splash/index.php HTTP/1.1" 200 1458 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+127.0.0.1 - - [15/Oct/2022:13:25:06 +0200] "GET /us_splash/css/style.css HTTP/1.1" 200 749 "http://localhost/us_splash/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+127.0.0.1 - - [15/Oct/2022:13:25:06 +0200] "GET /us_splash/images/logo.png HTTP/1.1" 200 28212 "http://localhost/us_splash/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+127.0.0.1 - - [15/Oct/2022:13:25:06 +0200] "GET /us_splash/images/branding_bg.png HTTP/1.1" 200 2889 "http://localhost/us_splash/css/style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+127.0.0.1 - - [15/Oct/2022:13:25:06 +0200] "GET /favicon.ico HTTP/1.1" 404 196 "http://localhost/us_splash/index.php" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"
+127.0.0.1 - - [15/Oct/2022:13:25:06 +0200] "GET /index.php HTTP/1.1" 302 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0"

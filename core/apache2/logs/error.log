@@ -1,0 +1,5 @@
+[Sat Oct 15 13:25:05.995812 2022] [mpm_winnt:notice] [pid 8120:tid 444] AH00455: Apache/2.4.54 (Win64) PHP/8.1.11 configured -- resuming normal operations
+[Sat Oct 15 13:25:05.995812 2022] [mpm_winnt:notice] [pid 8120:tid 444] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Sat Oct 15 13:25:05.995812 2022] [core:notice] [pid 8120:tid 444] AH00094: Command line: 'C:\\Users\\Chuck\\Documents\\Code\\ServeWP\\i-001\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Chuck/Documents/Code/ServeWP/i-001/core/apache2 -f C:\\Users\\Chuck\\Documents\\Code\\ServeWP\\i-001\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Chuck\\Documents\\Code\\ServeWP\\i-001\\core\\apache2'
+[Sat Oct 15 13:25:06.006076 2022] [mpm_winnt:notice] [pid 8120:tid 444] AH00418: Parent: Created child process 20004
+[Sat Oct 15 13:25:06.643453 2022] [mpm_winnt:notice] [pid 20004:tid 460] AH00354: Child: Starting 150 worker threads.
