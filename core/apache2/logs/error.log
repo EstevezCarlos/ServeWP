@@ -3,3 +3,4 @@
 [Sat Oct 15 13:25:05.995812 2022] [core:notice] [pid 8120:tid 444] AH00094: Command line: 'C:\\Users\\Chuck\\Documents\\Code\\ServeWP\\i-001\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Chuck/Documents/Code/ServeWP/i-001/core/apache2 -f C:\\Users\\Chuck\\Documents\\Code\\ServeWP\\i-001\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Chuck\\Documents\\Code\\ServeWP\\i-001\\core\\apache2'
 [Sat Oct 15 13:25:06.006076 2022] [mpm_winnt:notice] [pid 8120:tid 444] AH00418: Parent: Created child process 20004
 [Sat Oct 15 13:25:06.643453 2022] [mpm_winnt:notice] [pid 20004:tid 460] AH00354: Child: Starting 150 worker threads.
+[Sat Oct 15 13:34:36.760529 2022] [php:notice] [pid 20004:tid 1784] [client 127.0.0.1:65072] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_, referer: http://localhost/wp-admin/setup-config.php?step=1
