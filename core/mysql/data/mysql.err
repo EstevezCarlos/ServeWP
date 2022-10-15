@@ -1,0 +1,10 @@
+2022-10-15T11:24:00.443730Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2022-10-15T11:24:00.443759Z 0 [System] [MY-010116] [Server] C:\Users\Chuck\Documents\Code\ServeWP\i-001\core\mysql\bin\mysqld_z.exe (mysqld 8.0.30) starting as process 16824
+2022-10-15T11:24:00.491502Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: ddd73185-4c7b-11ed-a542-1418c38736dc.
+2022-10-15T11:24:00.504368Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2022-10-15T11:24:01.342700Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2022-10-15T11:24:01.892646Z 0 [ERROR] [MY-011947] [InnoDB] Cannot open 'C:\Users\Chuck\Documents\Code\ServeWP\i-001\core\mysql\data\ib_buffer_pool' for reading: No such file or directory
+2022-10-15T11:24:02.281643Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2022-10-15T11:24:02.283387Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2022-10-15T11:24:02.453895Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2022-10-15T11:24:02.454213Z 0 [System] [MY-010931] [Server] C:\Users\Chuck\Documents\Code\ServeWP\i-001\core\mysql\bin\mysqld_z.exe: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
