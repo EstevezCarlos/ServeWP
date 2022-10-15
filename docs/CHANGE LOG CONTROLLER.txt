@@ -1,0 +1,30 @@
+﻿################################################################################
+# File name: CHANGE LOG CONTROLLER.txt
+# Created By: The Uniform Server Development Team
+################################################################################
+
+ --------------------------------------------
+ Uniform Server ZeroXV Controller Change Log
+ --------------------------------------------
+ 
+ 2.5.0  - Initial release.
+
+
+ ----
+ Note
+ ----
+ 
+ Uniform Server ZeroXV Controller is based on Uniform Server ZeroXIV.
+
+
+ -----------------------------------------------------------------------------
+
+  The authors were trying to make the best product so they cannot be held
+  responsible for any type of damage or problems caused by using this or
+  another software.
+
+ --------------------------------------o0o------------------------------------
+            Copyright 2002-2022 The Uniform Server Development Team
+                            All rights reserved.
+
+

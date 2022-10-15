@@ -1,0 +1,41 @@
+﻿ ################################################################################
+# File name: CHANGE LOG.txt
+# Created By: The Uniform Server Development Team
+################################################################################
+
+ Uniform Server ZeroXV releases are versions with pre-installed ZeroXV modules
+ producing a standard WAMP (Windows, Apache, MySQL and PHP) server
+ package. After extracting, servers are ready to run either from a
+ USB memory stick or PC. Apart from changing the MySQL password
+ (optional), there is no configuration required.
+
+ The pre-configured versions of Uniform Server ZeroXV should suit most
+ users! An alternative is to assemble a bespoke server from the available
+ modules provided on the following page:  
+
+ ZeroXV modules  (Plugins):
+ https://sourceforge.net/projects/miniserver/files/Uniform%20Server%20ZeroXV/ZeroXV%20Modules/
+
+ --------------------------------
+ Uniform Server ZeroXV Change Log
+ --------------------------------
+
+  15.0.0  - ZeroXV modules included:
+          - ZeroXV_controller_2_5_0.exe
+          - ZeroXV_documentation_1_1_1.exe
+          - ZeroXV_apache_2_4_54.exe (June 2022 release)
+          - ZeroXV_mysql_8_0_30.exe
+          - ZeroXV_php_8_1_11.exe
+          - ZeroXV_phpmyadmin_5_2_0.exe
+            
+
+ -----------------------------------------------------------------------------
+
+  The authors were trying to make the best product so they cannot be held
+  responsible for any type of damage or problems caused by using this or
+  another software.
+
+ --------------------------------------o0o------------------------------------
+            Copyright 2002-2022 The Uniform Server Development Team
+                            All rights reserved.
+
